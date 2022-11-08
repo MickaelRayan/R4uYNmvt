@@ -1,3 +1,22 @@
 .body2nd {
   background-color: #f7f3e9;
+    margin: 0 auto;
+  text-align: center;
+  max-width: 650px;
 }
+
+img {
+  border: 1px solid gray;
+    margin: 0 auto;
+    text-align: center;
+    width: 600px;
+    height: 100%;
+}
+
+.link {
+  font-size: .8em;
+  border: none;
+  color: red;
+}
+.link a {color: gray;}
+.link:hover {opacity: .5;}
